@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Challenge006</string>
+    <string name="text">Select any number of CheckBox and display the text on the CheckBox on Button Click</string>
+    <string name="check_one">Check one</string>
+    <string name="check_two">Check two</string>
+    <string name="check_three">Check three</string>
+    <string name="check_four">Check four</string>
+    <string name="btn_text">Display selected CheckBox values</string>
+</resources>
